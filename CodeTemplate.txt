@@ -2,20 +2,21 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//CHANGE ME: League of Legends
+//CHANGE ME: Ryan Quimod
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+
+if (Sett's health = 0) {
+    //Sett = dead
 } else {
-    //Add event below
+    //Sett = alive
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (Sett's level = 100%) {
+    //Sett level up = true
 } else {
-    //Add event below
+    //Sett level up = false
 }
 
 if (CHANGE ME: condition # 3) {
