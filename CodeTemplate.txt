@@ -8,21 +8,24 @@ CODE TEMPLATE:
 
 
 if (Sett's health = 0) {
-    //Sett = dead
+    //Sett = dead;
 } else {
-    //Sett = alive
+    //Sett = alive;
 }
 
 if (Sett's level = 100%) {
-    //Sett level up = true
+    //Sett level up = true;
 } else {
-    //Sett level up = false
+    //Sett level up = false;
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (Sett new level = 18) {
+    //Player cannot level up any more abilities;
 } else {
-    //Add event below
+    //Player can level up an ability;
 }
 
-
+if (Enemy is in Sett range for his R) {}
+    // Sett ults enemy and does x amount of damage;
+} else{ 
+    // Sett cannot ult the enemy;    
